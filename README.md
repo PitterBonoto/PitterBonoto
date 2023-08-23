@@ -22,7 +22,7 @@ Atualmente estou estudando e criando projetos com:
 ### Conecte-se comigo:
 
 <p>
-<a href="https://www.linkedin.com/in/pitter-bonoto-9536ab187/"> 
+<a href="https://www.linkedin.com/in/pitter-bonoto"> 
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png?w=740&t=st=1691844480~exp=1691845080~hmac=9809339f1ce74a682c4911502d3e7af0b25fca471ee9d12c59457557bef66a8c" width="32px" img align="left" alt="linkedin-logo"/>
 </a> 
 <a href="https://www.instagram.com/pitterbonoto/"> 

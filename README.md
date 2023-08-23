@@ -13,7 +13,7 @@ Atualmente estou estudando e criando projetos com:
 
 ### Como me encontrar:
 <p> 
-:mailbox:Email:arrow_right: pitterbonoto@gmail.com 
+:mailbox:Email:arrow_right: bonotopitter@gmail.com 
 <br>
 :telephone_receiver:Telefone:arrow_right: (31) 98850-6657
 </p>

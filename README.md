@@ -2,7 +2,7 @@
 
 Eu sou o Pitter Bonoto, um dev apaixonado por tecnologia.
 <br>
-Atualmente estou estudando e criando projetos com:
+Atualmente estou estudando e desenvolvendo projetos com:
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
